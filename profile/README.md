@@ -11,14 +11,3 @@ To get started, you gonna have to check the following repositories:
 
 
 * [**Telegram Support Group**](https://t.me/pixel_inside)
-
-
-### If you have liked our work and want to support us please consider donating for servers.
-
-```bash
-UPI ID : psambitk1@ybl
-PAYPAL: https://www.paypal.me/sambit2cool
-```
-
-
-![Source Code](https://i.imgur.com/orvRG5q.png)
